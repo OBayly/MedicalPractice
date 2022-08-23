@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MedicalPractice_OBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Appointment">
+    <Key>
+      <PropertyRef Name="AppointmentId" />
+    </Key>
+    <Property Name="AppointmentId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AppointmentDate" Type="datetime" />
+    <Property Name="TimeId" Type="int" />
+    <Property Name="PatientId" Type="int" />
+    <Property Name="PractitionerId" Type="int" />
+  </EntityType>
+  <EntityType Name="AppointmentTime">
+    <Key>
+      <PropertyRef Name="TimeId" />
+    </Key>
+    <Property Name="TimeId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AppointmentTime" Type="datetime" />
+    <Property Name="TimeOrder" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="Availability">
+    <Key>
+      <PropertyRef Name="DayId" />
+      <PropertyRef Name="PractitionerId" />
+    </Key>
+    <Property Name="DayId" Type="int" Nullable="false" />
+    <Property Name="PractitionerId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Day">
+    <Key>
+      <PropertyRef Name="DayId" />
+    </Key>
+    <Property Name="DayId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DayName" Type="nvarchar" MaxLength="9" />
+    <Property Name="DayOrder" Type="nchar" MaxLength="1" />
+  </EntityType>
+  <EntityType Name="PractitionerType">
+    <Key>
+      <PropertyRef Name="TypeId" />
+    </Key>
+    <Property Name="TypeId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TypeName" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <Association Name="DayId_fk">
+    <End Role="Day" Type="Self.Day" Multiplicity="1" />
+    <End Role="Availability" Type="Self.Availability" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Day">
+        <PropertyRef Name="DayId" />
+      </Principal>
+      <Dependent Role="Availability">
+        <PropertyRef Name="DayId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="TimeId_fk">
+    <End Role="AppointmentTime" Type="Self.AppointmentTime" Multiplicity="0..1" />
+    <End Role="Appointment" Type="Self.Appointment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AppointmentTime">
+        <PropertyRef Name="TimeId" />
+      </Principal>
+      <Dependent Role="Appointment">
+        <PropertyRef Name="TimeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MedicalPractice_OBModelStoreContainer">
+    <EntitySet Name="Appointment" EntityType="Self.Appointment" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="AppointmentTime" EntityType="Self.AppointmentTime" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Availability" EntityType="Self.Availability" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Day" EntityType="Self.Day" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PractitionerType" EntityType="Self.PractitionerType" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="DayId_fk" Association="Self.DayId_fk">
+      <End Role="Day" EntitySet="Day" />
+      <End Role="Availability" EntitySet="Availability" />
+    </AssociationSet>
+    <AssociationSet Name="TimeId_fk" Association="Self.TimeId_fk">
+      <End Role="AppointmentTime" EntitySet="AppointmentTime" />
+      <End Role="Appointment" EntitySet="Appointment" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

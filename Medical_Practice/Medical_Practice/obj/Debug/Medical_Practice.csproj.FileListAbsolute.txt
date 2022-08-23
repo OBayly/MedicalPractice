@@ -1,0 +1,94 @@
+D:\Cert. IV in Programming\C#\Projects\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.csprojAssemblyReference.cache
+D:\Cert. IV in Programming\C#\Projects\Medical_Practice\Medical_Practice\obj\Debug\MainWindow.g.cs
+D:\Cert. IV in Programming\C#\Projects\Medical_Practice\Medical_Practice\obj\Debug\App.g.cs
+D:\Cert. IV in Programming\C#\Projects\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice_MarkupCompile.cache
+D:\Cert. IV in Programming\C#\Projects\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice_MarkupCompile.lref
+D:\Cert. IV in Programming\C#\Projects\Medical_Practice\Medical_Practice\bin\Debug\Medical_Practice.exe.config
+D:\Cert. IV in Programming\C#\Projects\Medical_Practice\Medical_Practice\bin\Debug\Medical_Practice.exe
+D:\Cert. IV in Programming\C#\Projects\Medical_Practice\Medical_Practice\bin\Debug\Medical_Practice.pdb
+D:\Cert. IV in Programming\C#\Projects\Medical_Practice\Medical_Practice\obj\Debug\MainWindow.baml
+D:\Cert. IV in Programming\C#\Projects\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.g.resources
+D:\Cert. IV in Programming\C#\Projects\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.Properties.Resources.resources
+D:\Cert. IV in Programming\C#\Projects\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.csproj.GenerateResource.cache
+D:\Cert. IV in Programming\C#\Projects\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.csproj.CoreCompileInputs.cache
+D:\Cert. IV in Programming\C#\Projects\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.exe
+D:\Cert. IV in Programming\C#\Projects\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.pdb
+E:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\bin\Debug\Medical_Practice.exe.config
+E:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\bin\Debug\Medical_Practice.exe
+E:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\bin\Debug\Medical_Practice.pdb
+E:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.csprojAssemblyReference.cache
+E:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\MainWindow.g.cs
+E:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\App.g.cs
+E:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice_MarkupCompile.cache
+E:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice_MarkupCompile.lref
+E:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\MainWindow.baml
+E:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.g.resources
+E:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.Properties.Resources.resources
+E:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.csproj.GenerateResource.cache
+E:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.csproj.CoreCompileInputs.cache
+E:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.exe
+E:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.pdb
+D:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\MainWindow.g.cs
+D:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\App.g.cs
+D:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice_MarkupCompile.cache
+D:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice_MarkupCompile.lref
+D:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.exe
+D:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.pdb
+D:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\bin\Debug\Medical_Practice.exe.config
+D:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\bin\Debug\Medical_Practice.exe
+D:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\bin\Debug\Medical_Practice.pdb
+D:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\MainWindow.baml
+D:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.g.resources
+D:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.Properties.Resources.resources
+D:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.csproj.GenerateResource.cache
+D:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.csproj.CoreCompileInputs.cache
+G:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.csprojAssemblyReference.cache
+G:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\MainWindow.g.cs
+G:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\App.g.cs
+G:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice_MarkupCompile.cache
+G:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice_MarkupCompile.lref
+G:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.exe
+G:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.pdb
+G:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\bin\Debug\Medical_Practice.exe.config
+G:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\bin\Debug\Medical_Practice.exe
+G:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\bin\Debug\Medical_Practice.pdb
+G:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\MainWindow.baml
+G:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.g.resources
+G:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.Properties.Resources.resources
+G:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.csproj.GenerateResource.cache
+G:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.csproj.CoreCompileInputs.cache
+G:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice_Content.g.cs
+G:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\bin\Debug\bin\Debug\MedicalPractice_OB.mdf
+G:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\bin\Debug\bin\Debug\MedicalPractice_OB_log.ldf
+D:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice_Content.g.cs
+D:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.csprojAssemblyReference.cache
+D:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\bin\Debug\EntityFramework.dll
+D:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\bin\Debug\EntityFramework.SqlServer.dll
+D:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\bin\Debug\EntityFramework.xml
+D:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\bin\Debug\EntityFramework.SqlServer.xml
+D:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.csproj.CopyComplete
+D:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\bin\Debug\bin\Debug\MedicalPractice_OB.mdf
+D:\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\bin\Debug\bin\Debug\MedicalPractice_OB_log.ldf
+D:\01 Programming\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\bin\Debug\bin\Debug\MedicalPractice_OB.mdf
+D:\01 Programming\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\bin\Debug\bin\Debug\MedicalPractice_OB_log.ldf
+D:\01 Programming\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\bin\Debug\Medical_Practice.exe.config
+D:\01 Programming\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\bin\Debug\Medical_Practice.exe
+D:\01 Programming\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\bin\Debug\Medical_Practice.pdb
+D:\01 Programming\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\bin\Debug\EntityFramework.dll
+D:\01 Programming\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\bin\Debug\EntityFramework.SqlServer.dll
+D:\01 Programming\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\bin\Debug\EntityFramework.xml
+D:\01 Programming\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\bin\Debug\EntityFramework.SqlServer.xml
+D:\01 Programming\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.csprojAssemblyReference.cache
+D:\01 Programming\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\MainWindow.g.cs
+D:\01 Programming\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\App.g.cs
+D:\01 Programming\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice_Content.g.cs
+D:\01 Programming\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice_MarkupCompile.cache
+D:\01 Programming\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice_MarkupCompile.lref
+D:\01 Programming\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\MainWindow.baml
+D:\01 Programming\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.g.resources
+D:\01 Programming\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.Properties.Resources.resources
+D:\01 Programming\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.csproj.GenerateResource.cache
+D:\01 Programming\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.csproj.CoreCompileInputs.cache
+D:\01 Programming\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.csproj.CopyComplete
+D:\01 Programming\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.exe
+D:\01 Programming\Cert. IV in Programming\C#\Assessment\Medical_Practice\Medical_Practice\obj\Debug\Medical_Practice.pdb

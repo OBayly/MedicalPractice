@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Medical_Practice.App">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Medical_Practice.Appointment">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAEAAAQQACAAAAAACBAQCACAgARAAAABAQAAACAAA=</HashCode>
+      <FileName>Classes\Appointment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Medical_Practice.Patients">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Lists.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Medical_Practice.Practitioners">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Lists.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Medical_Practice.Appointments">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Lists.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Medical_Practice.Patient">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgIEAAIQECAAoACAEQAEAIAAIACACCAACQ5CBAAAg=</HashCode>
+      <FileName>Classes\Patient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Medical_Practice.Practitioner">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACEEIAICEKQAgACAEAAUAAAAAAAACiAACAxCAACgg=</HashCode>
+      <FileName>Classes\Practitioner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Medical_Practice.SQLHelper">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAIAAAIAAAAIAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Classes\SQLHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Medical_Practice.MainWindow" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACARAAAAIJAAAAAAEAIAACAgCAiACQAACEAABYAAU=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Medical_Practice.Properties.Resources">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Medical_Practice.Properties.Settings">
+    <Position X="4" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

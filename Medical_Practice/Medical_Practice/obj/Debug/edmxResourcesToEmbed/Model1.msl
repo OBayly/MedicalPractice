@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MedicalPractice_OBModelStoreContainer" CdmEntityContainer="MedicalPractice_OBEntities2">
+    <EntitySetMapping Name="Appointments">
+      <EntityTypeMapping TypeName="MedicalPractice_OBModel.Appointment">
+        <MappingFragment StoreEntitySet="Appointment">
+          <ScalarProperty Name="AppointmentId" ColumnName="AppointmentId" />
+          <ScalarProperty Name="AppointmentDate" ColumnName="AppointmentDate" />
+          <ScalarProperty Name="TimeId" ColumnName="TimeId" />
+          <ScalarProperty Name="PatientId" ColumnName="PatientId" />
+          <ScalarProperty Name="PractitionerId" ColumnName="PractitionerId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AppointmentTimes">
+      <EntityTypeMapping TypeName="MedicalPractice_OBModel.AppointmentTime">
+        <MappingFragment StoreEntitySet="AppointmentTime">
+          <ScalarProperty Name="TimeId" ColumnName="TimeId" />
+          <ScalarProperty Name="AppointmentTime1" ColumnName="AppointmentTime" />
+          <ScalarProperty Name="TimeOrder" ColumnName="TimeOrder" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Availabilities">
+      <EntityTypeMapping TypeName="MedicalPractice_OBModel.Availability">
+        <MappingFragment StoreEntitySet="Availability">
+          <ScalarProperty Name="DayId" ColumnName="DayId" />
+          <ScalarProperty Name="PractitionerId" ColumnName="PractitionerId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Days">
+      <EntityTypeMapping TypeName="MedicalPractice_OBModel.Day">
+        <MappingFragment StoreEntitySet="Day">
+          <ScalarProperty Name="DayId" ColumnName="DayId" />
+          <ScalarProperty Name="DayName" ColumnName="DayName" />
+          <ScalarProperty Name="DayOrder" ColumnName="DayOrder" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PractitionerTypes">
+      <EntityTypeMapping TypeName="MedicalPractice_OBModel.PractitionerType">
+        <MappingFragment StoreEntitySet="PractitionerType">
+          <ScalarProperty Name="TypeId" ColumnName="TypeId" />
+          <ScalarProperty Name="TypeName" ColumnName="TypeName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
